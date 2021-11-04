@@ -10,8 +10,8 @@
 
 ### About me
 
-- 😄 Pronouns: ... she/her
-- ⚡ Fun fact: ... I used to work as a data scientist
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I used to work as a data scientist
 - ✨ Fun hobbies: Maps, keyboards and vis
 
 # Contact me
