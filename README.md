@@ -8,10 +8,15 @@
 -  Resilience metrics, 
 -  Disaster mitigation.
 
-- 📫 How to reach me: ... email me at gomezsaldarriagam14@students.ecu.edu
+### About me
+
 - 😄 Pronouns: ... she/her
 - ⚡ Fun fact: ... I used to work as a data scientist
 - ✨ Fun hobbies: Maps, keyboards and vis
+
+# Contact me
+- 📫 How to reach me: ... email me at gomezsaldarriagam14@students.ecu.edu
+
 
 
 <!--
