@@ -5,7 +5,7 @@
 ### My research interest include:
 -  Ecosystem Services Valuaton (ESV)
 -  Human health intersections with ecosystems services
--  Resilience metrics, 
+-  Resilience metrics
 -  Disaster mitigation.
 
 ### About me
