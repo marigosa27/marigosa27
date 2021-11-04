@@ -12,10 +12,10 @@
 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I used to work as a data scientist
-- ✨ Fun hobbies: Maps, keyboards and vis
+- ✨ Fun hobbies: Maps, keyboards and data vis
 
 # Contact me
-- 📫 How to reach me: ... email me at gomezsaldarriagam14@students.ecu.edu
+- 📫 How to reach me: email me at gomezsaldarriagam14@students.ecu.edu
 
 
 
