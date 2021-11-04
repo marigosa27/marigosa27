@@ -1,9 +1,5 @@
 ### Hi there 👋 I am Maria, a second year PhD Student  
 
-- 📫 How to reach me: ... email me at gomezsaldarriagam14@students.ecu.edu
-- 😄 Pronouns: ... she/her
-- ⚡ Fun fact: ... I used to work as a Data Scientist
-
 ### I have a background in health care data science and health economics.
 
 ### My research interest include:
@@ -11,6 +7,13 @@
 -  Human health intersections with ecosystems services
 -  Resilience metrics, 
 -  Disaster mitigation.
+
+- 📫 How to reach me: ... email me at gomezsaldarriagam14@students.ecu.edu
+- 😄 Pronouns: ... she/her
+- ⚡ Fun fact: ... I used to work as a data scientist
+- ✨ Fun hobbies: Maps, keyboards and vis
+
+
 <!--
 **marigosa27/marigosa27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
