@@ -1,10 +1,10 @@
-### Hi there 👋 I am Maria, a second year PhD Student  
+### Hi there 👋 I am Maria, a fourth year PhD Student  
 
 ### I have a background in health care data science and health economics.
 
-### My research interest include:
--  Ecosystem Services Valuaton (ESV)
--  Human health intersections with ecosystems services
+### My research interests include:
+-  Ecosystem Services Valuation (ESV)
+-  Human health intersections with ecosystem services
 -  Resilience metrics
 -  Disaster mitigation.
 
