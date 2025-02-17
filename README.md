@@ -2,7 +2,7 @@
 
 🚀 **Geospatial Data Scientist | Health Economist | Remote Sensing Analyst**  
 
-I'm a **fifth-year PhD Candidate** with a passion for understanding the intersections of **ecosystem services, human health, and disaster resilience**. My work spans **North Carolina, Greenland, and Madagascar**, where I've applied advanced geospatial analysis to real-world environmental and economic challenges.  
+I'm a **fifth-year PhD Candidate** with a passion for understanding the intersections of **ecosystem services, human health, and disaster resilience**. My work covers places such as  **Jamaica, North Carolina, Greenland, and Madagascar**, where I've applied advanced geospatial analysis to real-world environmental and economic challenges.  
 
 ### 🔬 My Research Interests  
 
@@ -13,15 +13,15 @@ I'm a **fifth-year PhD Candidate** with a passion for understanding the intersec
 
 ### 🛠️ Tools & Skills  
 
-- 📌 **Programming:** Python 🐍 | R 📊 | SQL 🗄️  
+- 📌 **Programming:** Python 🐍 | R 📊 | SQL 🗄️ | SAS 📈  
 - 🌎 **GIS & Remote Sensing:** ArcGIS Pro | QGIS | Google Earth Engine 🌍  
 - 🏗️ **Data Science & Modeling:** Machine Learning | Econometrics | Bayesian Analysis  
 
 ### 🎯 About Me  
 
 - 😄 **Pronouns:** she/her  
-- ⚡ **Fun fact:** I once worked as a data scientist before diving into academia  
-- ✨ **Hobbies:** Maps, mechanical keyboards, and cool data visualizations  
+- ⚡ **Fun fact:** I was a D1 athlete back in the day specifically a tennis player and still love the sport
+- ✨ **Hobbies:** Appreciating Maps, mechanical keyboards, all sports, and Making awesome visualizations. 
 
 ### 📬 Let's Connect!  
 
